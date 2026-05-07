@@ -1,0 +1,76 @@
+ 
+Centro Federal de Educação Tecnológica de Minas Gerais 
+Campus VIII – Varginha 
+Bacharelado em Sistemas de Informação 
+Disciplina 
+Lab. Inteligência Artificial 
+TRABALHO 
+Professor 
+Lázaro Eduardo da Silva 
+Valor 
+100% 
+Nota 
+ 
+Data: 
+07/05/2026 Aluno(a): 
+ 
+Visando uma aplicação específica, a equipe de engenheiros e cientistas de uma instituição projetou 
+uma rede neural artificial do tipo perceptron multicamadas, constituída de três camadas, cuja topologia da 
+mesma está ilustrada na figura abaixo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As informações referentes à topologia da rede estão como se segue: 
+Camada de Entrada → Constituída de “N” sinais de entrada (X1 , X2 , ..., XN). 
+Camada Neural Escondida → Constituída de “N1” neurônios. 
+Camada Neural de Saída → Constituída de apenas 1 neurônio. 
+Conjunto de Padrões de Treinamento → Constituído de “P” padrões. 
+ 
+ 
+Demonstre de forma detalhada como será a seqüência e o ajuste das matrizes de pesos entre cada uma 
+das camadas quando se utiliza o algoritmo de aprendizagem “Backpropagation”. 
+ 
+ 
+Utilize a seguinte convenção: 
+ 
+ 
+ 
+Matriz W1 → Matriz de pesos entre a 1a  e  2a camada. 
+ 
+ 
+ 
+Matriz W2 → Matriz de pesos entre a 2a  e  3a camada. 
+ 
+ 
+ 
+Matriz W3 → Matriz de pesos entre a 1a  e  3a camada. 
+ 
+ 
+ 
+ 
+ 
+1
+2 
+x1 
+x2 
+xN 
+1 
+N1 
